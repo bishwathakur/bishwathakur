@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwathakur&label=Profile%20views&color=0e75b6&style=flat" alt="bishwathakur" /> </p>
 
 
-- 🔭 I’m currently working on **React Native App Dev**
+- 🔭 I’m currently working on **Flutter App dev**
 
-- 🌱 I’m currently learning **React Native, Flutter and Django**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **more Application Development projects**
 
