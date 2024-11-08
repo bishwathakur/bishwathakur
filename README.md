@@ -55,6 +55,6 @@
 
 <div align="center" style="margin:10px;">
 	<a href="https://github.com/bishwathakur/github-readme-profile">
-		<img src="https://gh-readme-profile.vercel.app/api?username=bishwathakur" alt="GitHub Stats">
+		<img src="https://gh-readme-profile.vercel.app/api?username=bishwathakur&theme=github_dark" alt="GitHub Stats">
 	</a>
 </div>
