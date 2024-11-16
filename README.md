@@ -19,8 +19,7 @@
 <a href="https://instagram.com/_bishwathakur_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_bishwathakur_/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stacks:</h3>
-<div align="center" style="margin: 30px;">
+<!---<div align="center" style="margin: 30px;">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>
@@ -50,8 +49,37 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
+--->
 
 <div style="height: 20px;"></div>
+
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,dart,javascript,python,cpp" />
+  </a>
+</p>
+
+<h3 align="left">Frameworks/Libraries:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter,django,materialui,redux,flask" />
+  </a>
+</p>
+
+<h3 align="left">Backend Technologies:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,redis,mongodb" />
+  </a>
+</p>
+
+<h3 align="left">Tools/Platforms:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,github,firebase,postman,figma,pycharm,npm,netlify,vscode" />
+  </a>
+</p>
 
 <div align="center" style="margin:10px;">
 	<a href="https://github.com/bishwathakur/github-readme-profile">
