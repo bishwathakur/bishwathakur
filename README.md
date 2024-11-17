@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwathakur&label=Profile%20views&color=0e75b6&style=flat" alt="bishwathakur" /> </p>
 
+Here's my Resume, take one if you want:
+  [Resume](https://github.com/user-attachments/files/17789638/IIT_DhanbadResume__OnCampus_Final.pdf)
 
 - 🔭 I’m currently working on **Flutter App dev**
 
