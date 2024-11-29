@@ -3,7 +3,8 @@
 [![](https://visitcount.itsvg.in/api?id=bishwathakur&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 Here's my Resume, take one if you want:
-  [Resume](https://github.com/user-attachments/files/17789638/IIT_DhanbadResume__OnCampus_Final.pdf)
+  [Resume](https://github.com/user-attachments/files/17958379/Resume_BishwaThakur.pdf)
+
 
 - 🔭 I’m currently working on **Flutter App dev**
 
