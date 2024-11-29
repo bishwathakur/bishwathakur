@@ -1,6 +1,6 @@
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwathakur&label=Profile%20views&color=0e75b6&style=flat" alt="bishwathakur" /> </p>
+[![](https://visitcount.itsvg.in/api?id=bishwathakur&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 Here's my Resume, take one if you want:
   [Resume](https://github.com/user-attachments/files/17789638/IIT_DhanbadResume__OnCampus_Final.pdf)
