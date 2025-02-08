@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=bishwathakur&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 Here's my Resume, take one if you want:
-  [Resume](https://github.com/user-attachments/files/17958379/Resume_BishwaThakur.pdf)
+  [Resume]([https://drive.google.com/file/d/19m4HTrmnjEXgI_6Jz2Mljx7tcJkEFikV/view?usp=drive_link])
 
 
 - 🔭 I’m currently working on **Flutter App dev**
