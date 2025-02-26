@@ -84,8 +84,6 @@ Here's my Resume, take one if you want:
   </a>
 </p>
 
-<div align="center" style="margin:10px;">
-	<a href="https://github.com/bishwathakur/github-readme-profile">
-		<img src="https://gh-readme-profile.vercel.app/api?username=bishwathakur&theme=github_dark" alt="GitHub Stats">
-	</a>
-</div>
+<h3 align="left">GitHub Stats:</h3>
+
+![Bishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishwathakur&show_icons=true&theme=radical)
