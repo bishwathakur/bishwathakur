@@ -89,8 +89,8 @@ Here's my Resume, take one if you want:
 
 # 📊 GitHub Stats:
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siva-PythonPirates&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishwathakur&theme=github_dark" />
 
 ![Bishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishwathakur&show_icons=true&theme=radical)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Siva-PythonPirates&theme=dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Siva-PythonPirates&theme=darkhub&no-frame=true)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bishwathakur&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bishwathakur&theme=darkhub&no-frame=true)
